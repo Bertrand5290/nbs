@@ -1,0 +1,7 @@
+{
+  "name": "nbs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
